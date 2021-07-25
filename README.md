@@ -6,7 +6,7 @@ The purpose of this project is to an easy-to-use web application where the data 
 Users will be able to use as many, or as little of the filters parameters so they can dig thru the data how they like and arrive to the conclusion: Are we alone in the universe?
 
 ## Results
-To display the results, we have deployed the web app using github pages, to visit site [click here](https://calvogeorge.github.io/UFOs/),  where the webapp as show on the image below will load.
+To display the results, we have deployed the web app using github pages, to visit the site [click here](https://calvogeorge.github.io/UFOs/),  where the webapp as show on the image below will load.
 
 ##### Image 1
 ![Webapp Screenshoot](https://github.com/calvogeorge/UFOs/blob/41d180f0bbe65ae281e688f85a81763e74f1915a/webapp_screenshoot.png)
